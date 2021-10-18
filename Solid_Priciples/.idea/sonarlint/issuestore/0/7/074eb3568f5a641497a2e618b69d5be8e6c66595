@@ -1,0 +1,33 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "gender".(õ•£Ö
+Q
+java:S1854";Remove this useless assignment to local variable "phoneNo".(‚™îµ
+V
+java:S1854";Remove this useless assignment to local variable "emailId".(ï£ßùÿÿÿÿ
+N
+java:S1854
+"8Remove this useless assignment to local variable "name".(ßÀà¨
+`
+java:S1854"ERemove this useless assignment to local variable "creationOfAccount".(˜À‰‚ıÿÿÿÿ
+[
+java:S1854"ERemove this useless assignment to local variable "creationOfAccount".(õáª¯
+Z
+java:S1659"DDeclare "emailId" and all following declarations on a separate line.(Å™¶À
+?
+java:S1481")Remove this unused "name" local variable.(Å™¶À
+B
+java:S1481",Remove this unused "emailId" local variable.(Å™¶À
+A
+java:S1481"+Remove this unused "gender" local variable.(Å™¶À
+G
+java:S1481",Remove this unused "phoneNo" local variable.(òøŒªÿÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ÙÍÎ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¦İ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(À·¯•úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Âø¥üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Æ‹ş
+Q
+java:S1481"6Remove this unused "creationOfAccount" local variable.(˜À‰‚ıÿÿÿÿ
+L
+java:S1481"6Remove this unused "creationOfAccount" local variable.(õáª¯

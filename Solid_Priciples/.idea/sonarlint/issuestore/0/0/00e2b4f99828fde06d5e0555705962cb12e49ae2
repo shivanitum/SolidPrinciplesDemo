@@ -1,0 +1,26 @@
+
+o
+java:S3008"YRename this field "SavingsAccount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¥şä
+o
+java:S3008"YRename this field "CurrentAccount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÖÅ
+q
+java:S3008	"VRename this field "AccountType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùëöÇıÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "phoneNo".(¦ıÒâûÿÿÿÿ
+Z
+java:S1659"DDeclare "emailId" and all following declarations on a separate line.(Å™¶À
+G
+java:S1481",Remove this unused "phoneNo" local variable.(òøŒªÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÍÎ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¦İ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(À·¯•úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Âø¥üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Æ‹ş
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(åÀúÓøÿÿÿÿ
+H
+java:S1068"2Remove this unused "SavingsAccount" private field.(¸¥şä
+H
+java:S1068"2Remove this unused "CurrentAccount" private field.(ÑÖÅ
+J
+java:S1068	"/Remove this unused "AccountType" private field.(ùëöÇıÿÿÿÿ
